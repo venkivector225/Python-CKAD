@@ -1,5 +1,5 @@
 # The line below states we will base our new image on the Latest Official Python
-FROM python3:latest
+FROM python:3
 
 # Identify the maintainer of an image
 LABEL version="2.0.0"
